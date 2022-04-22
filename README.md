@@ -1,5 +1,4 @@
-## تمرین روزانه مهارت برنامه نویسی
+## Daily Programming Train
 
-تصمیم گرفتم هر روز یک مسئله حل کنم حتی به ظاهر ساده و کم اهمیت
-داخل هر پوشه فایل سوال با فرمت عکس قرار داره و جواب اون هم یک فایل هم نام با عنوان سوال هست.
- سوالات رو فعلا از هکررنک انتخاب می کنم
+I decide to solve atleast one problem per day and push it to this repo
+Source of the problems is Hackerrank
