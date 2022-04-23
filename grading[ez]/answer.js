@@ -13,4 +13,4 @@ function gradingStudents(grades) {
     })
 }
 
-console.log([73, 67, 38, 33]) // MUST BE: [75,67,40,33]
+console.log(gradingStudents([73, 67, 38, 33])) // MUST BE: [75,67,40,33]
